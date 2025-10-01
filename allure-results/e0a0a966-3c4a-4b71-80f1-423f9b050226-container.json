@@ -1,0 +1,1 @@
+{"uuid":"e0a0a966-3c4a-4b71-80f1-423f9b050226","name":"BaseTest.openURL","children":["23535593-be7b-4c22-b4d0-dc11974c7568"],"description":"","befores":[{"name":"openURL","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1759236713024,"stop":1759236713038}],"afters":[],"start":1759236713024,"stop":1759236713038}
