@@ -63,7 +63,7 @@ SwagLabs-Automation-Tests/
 
 ### 1. Clone the repository
 ```
-git clone https://github.com/<your-username>/SwagLabs-Automation-Invalid-Tests.git
+git clone https://github.com/Yehiiaaa/SwagLabs-Automation-Invalid-Tests.git
 cd SwagLabs-Automation-Invalid-Tests
 ```
 
@@ -107,4 +107,5 @@ Failed tests will automatically capture screenshots and store them in:
 ```
 /screenshots/
 ```
+
 
